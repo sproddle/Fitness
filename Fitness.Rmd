@@ -5,6 +5,9 @@ date: "May 10, 2016"
 output: html_document
 ---
 
+# VIEWING IN HTML
+These pages are available in HTML at  http://sproddle.github.io/Fitness/
+
 #INTRODUCTION
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively.This data is commonly used to track how much activity is being performed. This study is designed to assess if the data can be used to show how well the task is being performed.
 
